@@ -1,0 +1,2 @@
+# ctest
+composer test
